@@ -34,3 +34,7 @@
   --ifm-card-border-radius: 0;
   --ifm-pagination-nav-border-radius: 0;
 }
+
+.navbar__item {
+  margin: 0 5px;
+}
